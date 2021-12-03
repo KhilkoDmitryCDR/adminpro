@@ -27,7 +27,6 @@ import { PagesModule } from './pages/pages.module';
     AppRoutingModule,
     PagesModule,
     AuthModule,
-    PagesModule
 
   ],
 
